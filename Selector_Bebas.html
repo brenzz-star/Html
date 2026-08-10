@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Selector</title>
+
+    <style type="text/css">
+        gbawah {
+            TEXT-DECORATION: underline;
+        }
+    </style>
+
+</head>
+
+<body>
+    <gbawah>Effect Garis Bawah dengan Selector Bebas</gbawah>
+</body>
+</html>
